@@ -2,9 +2,11 @@
 
 This project delivers a comprehensive Power BI dashboard for **AtliQ Grands**, a multiple five-star hotel chain, to analyze revenue performance, operational efficiency, and customer satisfaction across 7 properties in India. The dashboard enables data-driven decision-making to address market share decline.
 
-**🔗 [Loom video Dashboard](https://www.loom.com/share/56f17d9ec4b34736a9359b5452098181)**    
-**📄 [Full Documentation](https://drive.google.com/file/d/1Skaamq8E4ox6_k_H264K-x7FdjCnZL02/view)**
-**📄 [Slides](https://docs.google.com/presentation/d/1pXuvHIKLd5bovk5wRcz_CC1Ci2Bq5CAF/edit?usp=sharing&ouid=106241485515040967211&rtpof=true&sd=true)**
+**🎥 [Loom Video Dashboard](https://www.loom.com/share/56f17d9ec4b34736a9359b5452098181)**  
+
+**📘 [Full Documentation](https://drive.google.com/file/d/1Skaamq8E4ox6_k_H264K-x7FdjCnZL02/view)**  
+
+**🖥️ [Slides](https://docs.google.com/presentation/d/1pXuvHIKLd5bovk5wRcz_CC1Ci2Bq5CAF/edit?usp=sharing&ouid=106241485515040967211&rtpof=true&sd=true)**
 
 
 # Dashboard
